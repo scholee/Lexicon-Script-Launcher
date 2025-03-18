@@ -1,0 +1,7 @@
+{
+    "backup_script": "scripts/backup_and_export.sh",
+    "lexicon_directory": "/path/to/your/lexicon/library",
+    "source_database": "/path/to/your/lexicon/main.db",
+    "backup_database": "/path/to/your/backup/location/lexicon_main_copy.db",
+    "tables_directory": "/path/to/your/tables/directory/"
+}
